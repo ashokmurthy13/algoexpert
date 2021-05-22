@@ -1,4 +1,4 @@
-package com.problem.solving.easy;
+package com.problem.solving.medium;
 
 import java.util.HashSet;
 import java.util.Set;
